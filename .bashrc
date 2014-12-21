@@ -27,8 +27,8 @@ fi
 export CLICOLOR=1
 export LSCOLORS=ExFxCxDxBxegedabagacad
 
-alias ll="ls -laG"
-alias ls="ls -G"
+alias ll="ls -la"
+alias ls="ls"
 alias st="git status "
 alias ci="git commit -am "
 alias pl="git pull "
